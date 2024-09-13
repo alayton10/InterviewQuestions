@@ -135,7 +135,7 @@ let steveBenefitTotal = 0;
 let steveTotalHours = 0;
 let steveRegularHours = 0;
 
-/* This for-loop iterates through mikeEmployee.timePunch to calculate total work hours, 
+/* This for-loop iterates through steveEmployee.timePunch to calculate total work hours, 
 classify them into regular, overtime, or double-time, and update earnings and benefits 
 based on the job type and total hours worked. It adjusts the regular and overtime hours
 while considering pay rates and benefits according to the hours worked and the 
@@ -215,7 +215,7 @@ let alexBenefitTotal = 0;
 let alexTotalHours = 0;
 let alexRegularHours = 0;
 
-/* This for-loop iterates through mikeEmployee.timePunch to calculate total work hours, 
+/* This for-loop iterates through alexEmployee.timePunch to calculate total work hours, 
 classify them into regular, overtime, or double-time, and update earnings and benefits 
 based on the job type and total hours worked. It adjusts the regular and overtime hours
 while considering pay rates and benefits according to the hours worked and the 
